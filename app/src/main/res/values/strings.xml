@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">cryptoapp</string>
+    <string name="crypto_app">Crypto App</string>
+    <string name="refresh">Refresh</string>
+    <string name="error_text">Something Went Wrong try again later</string>
+    <string name="view_allcoins_rates">View AlLCoins Rates</string>
+    <string name="show_history_graph">Show History Graph</string>
+</resources>
