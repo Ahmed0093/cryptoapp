@@ -1,5 +1,7 @@
 # CryptoApp
 
+  [CryptoVideo.webm](https://github.com/user-attachments/assets/416cdccf-b272-40df-9ea5-10bc80da3b36)
+
 ## Description
 The CryptoApp is a mobile application that displays the current Bitcoin and alternative cryptocurrency prices using data from the CoinPaprika API. The app fetches the latest cryptocurrency prices from the CoinPaprika API and presents them to the user in a clean and user-friendly interface. The main screen shows the current price of Bitcoin based on the user selected currency of the displayed price(s) amongst [USD,GBP, and EUR], while another screen displays the prices of various alternative cryptocurrencies also History Screen Display past prices of bitcoin in a graph. Users can refresh the data manually, and the app also updates the Bitcoin price automatically every minute.
 
